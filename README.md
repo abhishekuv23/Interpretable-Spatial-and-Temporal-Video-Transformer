@@ -17,11 +17,8 @@ This project demonstrates concepts and implementations related to Machine Learni
 
 ## How to Run
 1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
-3. Run the notebook:
+2. Run the notebook:
    ```bash
    jupyter notebook ISTVT1.ipynb
    ```
